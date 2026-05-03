@@ -1,2 +1,4 @@
-# Password-Manager
-A secure web-based password manager that requires user authentication with email and one-time password (OTP) verification. This application allows users to safely store, manage, and access their passwords through a user-friendly web interface with multi-layer security.
+**NOT SAVED WHEN CLOSED OR REFRESHED PAGE**
+Inventory Manager is used for temprary inventory manager to wait for the permantant inventory manager and can be may be used for permante inventory manager if prefred by user.
+
+Inventory Manager link:
